@@ -1,0 +1,8 @@
+.group1
+{
+	display: flex;
+	background-color: gray;
+	flex-direction: column;
+	flex-wrap: wrap;
+
+}
